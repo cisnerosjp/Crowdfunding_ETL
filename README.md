@@ -28,10 +28,11 @@
     - Four PNG files that display our queries and our diagram.
     - A PDF version of our ERD.
     - 5 SQL files that contain our queries and Schema for our database.
+    - Final Written Analysis describing the ETL process, 3 updated queries labeled 1a, 1b, 1c, followed by queries 2 & 3 
 
 ### Contributors
 - Raheem Yusuff
-- Shanara
+- Shanara Hawkins
 - Jason Cisneros
 As well as members of our instructional staff:
 - Alexander Booth
