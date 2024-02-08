@@ -27,9 +27,8 @@
     - Contains four CSV files entitled: "campaign.csv", "category.csv", "contacts.csv", and "subcategory.csv".
     - Four PNG files that display our queries and our diagram.
     - A PDF version of our ERD.
-    - 5 SQL files that contain our queries and Schema for our database.
-    - Final Written Analysis describing the ETL process, 3 updated queries labeled 1a, 1b, 1c, followed by queries 2 & 3 
-
+    - 6 SQL files that contain our queries and Schema for our database.
+    - Final Written Analysis describing our ETL process, 3 updated queries labeled 1a, 1b, 1c, table schemas, and future implications
 ### Contributors
 - Raheem Yusuff
 - Shanara Hawkins
